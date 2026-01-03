@@ -22,7 +22,7 @@ class SecondViewController: UIViewController {
         case 2:
             imageView.image = UIImage(named: "num2")
         default:
-            imageView.image = UIImage(named: "num1")
+            imageView.image = UIImage(named: "num2")
         }
     }
     
